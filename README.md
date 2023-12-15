@@ -1,5 +1,7 @@
-# IEEE-CIS Fraud Detection using ML
-This project is a competition from Kaggle posted 3 years ago. (Link to the original problem https://www.kaggle.com/competitions/ieee-fraud-detection)
+### IEEE-CIS Fraud Detection using ML
+#### This is a group project done in pair during my studies in Quantitative Finance, UW.
+This project is a competition from Kaggle posted 3 years ago. 
+(Link to the original problem https://www.kaggle.com/competitions/ieee-fraud-detection)
 
 In this project we want to check **whether the transaction is fraud (1) or not (0)?** from given variables. 
 We consider this problem is a classification problem --> 0 or 1.
